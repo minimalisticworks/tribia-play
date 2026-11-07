@@ -1,0 +1,17 @@
+{
+  "name": "triBia",
+  "short_name": "triBia",
+  "description": "Trivia bíblica",
+  "lang": "es",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14142B",
+  "theme_color": "#14142B",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" },
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+  ]
+}
